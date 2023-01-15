@@ -1,5 +1,5 @@
 # Typing-Speed-Game
-## A speed typing web application created with HTML, CSS, JavaScript, and React
+## A speed typing game web application
 
 ## Features:
 - Auto focus on textbox when starting game
